@@ -1,5 +1,5 @@
-# ml
-Lab programs
+# ML
+VTU lab programs
 
 
 ## a) find_s
