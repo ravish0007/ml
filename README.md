@@ -12,3 +12,12 @@ But this repo is aimed at providing readable and succinct notebooks and will be 
 
 - **Decision_Tree_ID3** <pre>    <a href="https://colab.research.google.com/gist/ravish0007/c3ae56f4e62b70b03d77362081b912f8/3_decision_tree_id3.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
 
+- **ANN_Backtracking** <pre>    <a href="https://colab.research.google.com/gist/ravish0007/3ca160a9c4c58630a235d1148bfaa210/4_ann_backprop.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+
+
+- **ANN_Backtracking** <pre>    <a href="https://colab.research.google.com/gist/ravish0007/3ca160a9c4c58630a235d1148bfaa210/4_ann_backprop.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+
+
+- **ANN_Backtracking** <pre>    <a href="https://colab.research.google.com/gist/ravish0007/3ca160a9c4c58630a235d1148bfaa210/4_ann_backprop.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+
+- **ANN_Backtracking** <pre>    <a href="https://colab.research.google.com/gist/ravish0007/3ca160a9c4c58630a235d1148bfaa210/4_ann_backprop.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
