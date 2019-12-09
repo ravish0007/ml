@@ -15,9 +15,20 @@ But this repo is aimed at providing readable and succinct notebooks and will be 
 - **ANN_Backtracking** <pre>    <a href="https://colab.research.google.com/gist/ravish0007/3ca160a9c4c58630a235d1148bfaa210/4_ann_backprop.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
 
 
-- **ANN_Backtracking** <pre>    <a href="https://colab.research.google.com/gist/ravish0007/3ca160a9c4c58630a235d1148bfaa210/4_ann_backprop.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+- **Naïve_Bayes_Classifier** <pre>    <a href="https://colab.research.google.com/gist/ravish0007/7af2297f005a81391653b36372fc9556/5_naive_bayes_classifier.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
 
 
-- **ANN_Backtracking** <pre>    <a href="https://colab.research.google.com/gist/ravish0007/3ca160a9c4c58630a235d1148bfaa210/4_ann_backprop.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+- **Naïve_Bayes_Document_Classifier** <pre>    <a href="https://colab.research.google.com/gist/ravish0007/7642d5678c1a842ac00e8da442f62029/6_naive_bayes_doc_classification.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
 
-- **ANN_Backtracking** <pre>    <a href="https://colab.research.google.com/gist/ravish0007/3ca160a9c4c58630a235d1148bfaa210/4_ann_backprop.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+- **7** <pre>    <a href="" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+
+- **8** <pre>    <a href="" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+
+- **9** <pre>    <a href="" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+
+- **10** <pre>    <a href="" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+
+
+
+
+
