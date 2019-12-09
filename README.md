@@ -1,4 +1,4 @@
-# Machine Learning Lab Programs(VTU)
+# Machine Learning Lab Programs ( VTU )
 
 Unlike any other repositories, this has ML lab programs,
 But this repo is aimed at providing readable and succinct notebooks and will be maintained for decades to come.
