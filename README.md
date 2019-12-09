@@ -1,7 +1,10 @@
-# ML
-VTU lab programs
+# Machine Learning Lab Programs(VTU)
+
+Unlike any other repositories, this has ML lab programs,
+But this repo is aimed at providing readable and succinct notebooks and will be maintained for decades to come.
 
 
+## 
 ## a) find_s     <a href="https://colab.research.google.com/gist/ravish0007/faf21ae1c6d436630d87d2b92d702e66/1_find_s.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> 
 
 ## b) candidate_elimination
