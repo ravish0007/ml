@@ -22,7 +22,7 @@ But this repo is aimed at providing readable and succinct notebooks and will be 
 
 - **Naïve_Bayes_Document_Classifier** <pre>    <a href="https://colab.research.google.com/gist/ravish0007/7642d5678c1a842ac00e8da442f62029/6_naive_bayes_doc_classification.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
 
-- **7** <pre>    <a href="" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+- **Bayesian_Network** <pre>    <a href="https://colab.research.google.com/gist/ravish0007/2229576288831102137adb4e0a1f2c91/7_bayesian_network.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
 
 - **8** <pre>    <a href="" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
 
