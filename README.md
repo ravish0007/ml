@@ -46,6 +46,10 @@ Implement the non-parametric Locally Weighted Regression algorithm in order to f
 * [Ravish](https://github.com/ravish0007)<br>
 * [Vishal Nayak](https://github.com/LastBencher-98)<br>
 
+# References
+
+* [Machine Learning by Thomas M. Mitchell, McGraw-Hill, Inc. New York, NY, USA ©1997](http://profsite.um.ac.ir/~monsefi/machine-learning/pdf/Machine-Learning-Tom-Mitchell.pdf)
+
 
 
 
