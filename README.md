@@ -64,7 +64,7 @@ Implement the non-parametric Locally Weighted Regression algorithm in order to f
 * [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 * [Ian Goodfellow's Book on deeplearning](https://www.deeplearningbook.org/)
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
-* [MIT 6.034] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+* [MIT 6.034](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 * [Stanford CS221](https://stanford-cs221.github.io/autumn2019/)
 * [fast.ai Deep Learning Course]( http://course.fast.ai)
 
