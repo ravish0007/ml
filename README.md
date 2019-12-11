@@ -52,8 +52,8 @@ Implement the non-parametric Locally Weighted Regression algorithm in order to f
 * [Machine Learning by Thomas M. Mitchell, McGraw-Hill, Inc. New York, NY, USA ©1997](http://profsite.um.ac.ir/~monsefi/machine-learning/pdf/Machine-Learning-Tom-Mitchell.pdf)
 
 # Further Readings
-* [Stanford CS229] (http://cs229.stanford.edu/)
-* [MIT 6.867] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+* [Stanford_CS229] (http://cs229.stanford.edu/)
+* [MIT_6.867] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
 * [Stanford CS230] (https://cs230.stanford.edu/)
 * [Stanford CS224d] (https://cs224d.stanford.edu/)
 * [MIT 6.867 ] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
