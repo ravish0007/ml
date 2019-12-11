@@ -34,7 +34,7 @@ But this repo is aimed at providing readable and succinct notebooks and will be 
 # Contributors
 
 * [Ravish](https://github.com/ravish0007)<br>
-* [Vishal_Nayak](https://github.com/LastBencher-98)<br>
+* [Vishal Nayak](https://github.com/LastBencher-98)<br>
 
 
 
