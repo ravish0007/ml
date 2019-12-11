@@ -31,6 +31,7 @@ But this repo is aimed at providing readable and succinct notebooks and will be 
 
 - **Locally_Weighted_Regression** <pre>  <a href="https://github.com/ravish0007/ml/blob/master/pdfs/10_local_weighted_regression.pdf" > <img src="https://image.flaticon.com/icons/png/128/179/179483.png" height=50px width=50px align = "center"></a>        <a href="https://colab.research.google.com/github/ravish0007/ml/blob/master/10_local_weighted_regression/10_local_weighted_regression.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a></pre>
 
+<br><br>
 # Contributors
 
 * [Ravish](https://github.com/ravish0007)<br>
