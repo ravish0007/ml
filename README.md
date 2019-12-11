@@ -44,7 +44,7 @@ Implement the non-parametric Locally Weighted Regression algorithm in order to f
 # Contributors
 
 * [Ravish](https://github.com/ravish0007)<br>
-* [Vishal Nayak](https://github.com/LastBencher-98)<br>
+* [Vishal](https://github.com/LastBencher-98)<br>
 
 # References
 
