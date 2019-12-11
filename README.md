@@ -1,4 +1,4 @@
-# Machine Learning Lab Programs ( VTU )
+# Machine Learning Lab Programs 15CSL76 ( VTU )
 
 Unlike any other repositories, this has ML lab programs,
 But this repo is aimed at providing readable and succinct notebooks and will be maintained for decades to come.
@@ -25,11 +25,17 @@ But this repo is aimed at providing readable and succinct notebooks and will be 
 
 - **Bayesian_Network** <pre>  <a href="https://github.com/ravish0007/ml/blob/master/pdfs/7_bayesian_network.pdf"> <img src="https://image.flaticon.com/icons/png/128/179/179483.png" height=50px width=50px align = "center"> </a>        <a href="https://colab.research.google.com/gist/ravish0007/2229576288831102137adb4e0a1f2c91/7_bayesian_network.ipynb" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
 
-- **8** <pre>    <a href="" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+- **KMeans_vs_EM** <pre>  <a href="https://github.com/ravish0007/ml/blob/master/pdfs/8_k_means_gmm.pdf" > <img src="https://image.flaticon.com/icons/png/128/179/179483.png" height=50px width=50px align = "center"></a>        <a href="https://colab.research.google.com/github/ravish0007/ml/blob/master/8_k_means_gmm/8_k_means_gmm.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a></pre>
 
-- **9** <pre>    <a href="" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+- **K_Nearest_Neighbour_Classifier** <pre>  <a href="https://github.com/ravish0007/ml/blob/master/pdfs/9_k_nearest_neighbour.pdf" > <img src="https://image.flaticon.com/icons/png/128/179/179483.png" height=50px width=50px align = "center"></a>        <a href="https://colab.research.google.com/github/ravish0007/ml/blob/master/9_k_nearest_neighbour/9_k_nearest_neighbour.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a></pre>
 
-- **10** <pre>    <a href="" > <img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a> </pre>
+- **Locally_Weighted_Regression** <pre>  <a href="https://github.com/ravish0007/ml/blob/master/pdfs/10_local_weighted_regression.pdf" > <img src="https://image.flaticon.com/icons/png/128/179/179483.png" height=50px width=50px align = "center"></a>        <a href="https://colab.research.google.com/github/ravish0007/ml/blob/master/10_local_weighted_regression/10_local_weighted_regression.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" align="center"></a></pre>
+
+# Contributors
+
+* [Ravish](https://github.com/ravish0007)<br>
+* [Vishal Nayak](https://github.com/LastBencher-98)<br>
+
 
 
 
