@@ -3,6 +3,8 @@
 Unlike any other repositories, this has ML lab programs,
 But this repo is aimed at providing readable and succinct notebooks and will be maintained for decades to come.
 
+Most of the notebooks are being copied from <a href=https://github.com/profthyagu> @profthyagu</a>'s repositories and made pythonic to a certain extent.
+
 <br>
 <br>
 <i>Below programs are hyperlinked to colab notebooks, so that you can inspect them on the go. </i> 
@@ -47,6 +49,7 @@ Implement the non-parametric Locally Weighted Regression algorithm in order to f
 * [Ravish](https://github.com/ravish0007)<br>
 * [Vishal](https://github.com/LastBencher-98)<br>
 
+
 # References
 
 * [Machine Learning by Thomas M. Mitchell, McGraw-Hill, Inc. New York, NY, USA ©1997](http://profsite.um.ac.ir/~monsefi/machine-learning/pdf/Machine-Learning-Tom-Mitchell.pdf)
@@ -68,9 +71,6 @@ Implement the non-parametric Locally Weighted Regression algorithm in order to f
 * [MIT 6.034](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 * [Stanford CS221](https://stanford-cs221.github.io/autumn2019/)
 * [fast.ai Deep Learning Course]( http://course.fast.ai)
-
-
-
 
 
 
